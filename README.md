@@ -4,9 +4,10 @@ You start choosing your own character (avatar selection) and choosing your own h
 Once you have chosen your character, you will appear at the dungeon. 
 Move using WASD, each time you move there is a small chance a monster will appear.
 You will be given coins if you defeat it. 
-Shop (T) -> disappears once you enter.
-Coins (O)
-Boss Fight (F)
+
+* **Shop (T) -> disappears once you enter.
+* **Coins (O)
+* **Boss Fight (F)
 
 YOU NEED TO IMPROVE YOUR CHARACTER WEAPONS BEFORE FIGHTING THE BOSS
 
